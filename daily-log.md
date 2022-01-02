@@ -16,7 +16,7 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 **Thoughts:** Loved it. Did about 5 quizzes on Linux, Javascript and HTML. Gave me some idea about creating my own quiz app as well 😀
 
-**Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1477339697806516229?s=20)
+**Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1477723807062364164?s=20)
 
 ## Other Links
 
