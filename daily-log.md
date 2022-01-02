@@ -1,4 +1,4 @@
-# 100 Days Of Code | Part 2 - Log
+# 100 Days Of Code | Part 2 - Daily Log
 
 ## Day 1: January 1, 2022
 
