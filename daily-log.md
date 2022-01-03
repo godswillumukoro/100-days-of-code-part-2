@@ -10,6 +10,8 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 **Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1477339697806516229?s=20)
 
+
+
 ## Day 2: January 2, 2022
 
 **Today's Progress**: Spent 40 minutes hacking through Freecodecamp's RPG
@@ -17,6 +19,18 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 **Thoughts:** Loved it. Did about 5 quizzes on Linux, Javascript and HTML. Gave me some idea about creating my own quiz app as well 😀
 
 **Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1477723807062364164?s=20)
+
+
+
+## Day 3: January 3, 2022
+
+**Today's Progress**: Spent 30 minutes hacking through Freecodecamp's RPG
+
+**Thoughts:** Had fun this time, got to play a game within the game 🤯 Also solve some Linux and JS quizzes
+
+**Link to tweet:** [Find my tweet]()
+
+
 
 ## Other Links
 
