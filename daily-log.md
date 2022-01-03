@@ -24,11 +24,11 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 ## Day 3: January 3, 2022
 
-**Today's Progress**: Spent 30 minutes hacking through Freecodecamp's RPG
+**Today's Progress**: (1) Wrote a new blog post. (2) Spent 30 minutes hacking through Freecodecamp's RPG
 
 **Thoughts:** Had fun this time, got to play a game within the game 🤯 Also solve some Linux and JS quizzes
 
-**Link to tweet:** [Find my tweet]()
+**Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1478119219392884737?s=20)
 
 
 
