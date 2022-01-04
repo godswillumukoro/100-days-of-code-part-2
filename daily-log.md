@@ -32,6 +32,22 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 
 
+## Day 4: January 4, 2022
+
+**Today's Progress**:
+
+1. Wrote some JavaScript
+
+2. Researched on many-many relationship data model, Role-based user authorization in Firebase
+
+3. Spent 35 minutes hacking on RPG by @freecodecamp
+
+**Thoughts:** Had fun conversations with Benjamin from Party Corgi Discord Channel about Firebase, Dynamo DB and NoSQL databases.
+
+**Link to tweet:** [Find my tweet]()
+
+
+
 ## Other Links
 
 1. [Link To My First #100DaysOfCode Challenge](https://github.com/godswillumukoro/100DaysOfCode)
