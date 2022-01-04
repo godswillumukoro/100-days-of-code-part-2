@@ -44,7 +44,7 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 **Thoughts:** Had fun conversations with Benjamin from Party Corgi Discord Channel about Firebase, Dynamo DB and NoSQL databases.
 
-**Link to tweet:** [Find my tweet]()
+**Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1478494076127354884?s=20)
 
 
 
