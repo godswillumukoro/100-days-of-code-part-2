@@ -38,7 +38,7 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 1. Wrote some JavaScript
 
-2. Researched on many-many relationship data model, Role-based user authorization in Firebase
+2. Researched on many-many relationship data model and Role-based authorization in Firebase
 
 3. Spent 35 minutes hacking on RPG by @freecodecamp
 
