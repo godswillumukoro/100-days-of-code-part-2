@@ -48,6 +48,15 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 
 
+## Day 5: January 5, 2022
+
+**Today's Progress**: More discussion about database modelling with my technical mentor
+
+**Link to tweet:** [Find my tweet]()
+
+
+
+
 ## Other Links
 
 1. [Link To My First #100DaysOfCode Challenge](https://github.com/godswillumukoro/100DaysOfCode)
