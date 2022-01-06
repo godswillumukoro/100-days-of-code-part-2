@@ -50,9 +50,9 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 ## Day 5: January 5, 2022
 
-**Today's Progress**: More discussion about database modelling with my technical mentor
+**Today's Progress**: More discussion about database modeling with my technical mentor
 
-**Link to tweet:** [Find my tweet]()
+**Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1478957284923527168?s=20)
 
 
 
