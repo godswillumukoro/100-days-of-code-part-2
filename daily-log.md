@@ -58,9 +58,9 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 ## Day 6: January 6, 2022
 
-**Today's Progress**: Modelled 60% of the Database design for a Computer-Based Testing (CBT) platform
+**Today's Progress**: Designed 60% Database model for a Computer-Based Testing (CBT) platform
 
-**Link to tweet:** [Find my tweet]()
+**Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1479516548536623106?s=20)
 
 
 
