@@ -74,6 +74,17 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 
 
+
+## Day 8: January 8, 2022
+
+**Today's Progress**: Continued building Instagram clone
+
+**Thoughts**: Currently having issues with using Firebase Storage from my code will continue to debug tomorrow
+
+**Link to tweet:** [Find my tweet]()
+
+
+
 ## Other Links
 
 1. [Link To My First #100DaysOfCode Challenge](https://github.com/godswillumukoro/100DaysOfCode)
