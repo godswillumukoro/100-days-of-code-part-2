@@ -81,7 +81,7 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 **Thoughts**: Currently having issues with using Firebase Storage from my code will continue to debug tomorrow
 
-**Link to tweet:** [Find my tweet]()
+**Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1479953915772813323?s=20)
 
 
 
