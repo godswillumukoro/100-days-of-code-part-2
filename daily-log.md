@@ -66,11 +66,11 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 ## Day 7: January 7, 2022
 
-**Today's Progress**: Initialized a Create-React-App (CRA) project with the intention of building an simplistic Instagram clone
+**Today's Progress**: Initialized a Create-React-App (CRA) project with the intention of building a simplistic Instagram clone
 
 **Thoughts**: Fixed conflicts resulting from my machine's global prettier/eslint config and the package.json that comes with CRA
 
-**Link to tweet:** [Find my tweet]()
+**Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1479755565492490241?s=20)
 
 
 
