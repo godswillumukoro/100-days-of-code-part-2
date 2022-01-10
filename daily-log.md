@@ -85,6 +85,14 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 
 
+## Day 9: January 9, 2022
+
+**Today's Progress**: Completed RPG game, commenced #100Devs
+
+**Link to tweet:** [Find my tweet]()
+
+
+
 ## Other Links
 
 1. [Link To My First #100DaysOfCode Challenge](https://github.com/godswillumukoro/100DaysOfCode)
