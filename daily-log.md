@@ -98,7 +98,7 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 **Today's Progress**: Completed Typography course and got [a cert from LinkedIn Learning](https://www.linkedin.com/learning/certificates/df28fb77f97855cccb90e2cbe3b91731b4d2f8ff98223719579c0d5a023a6fb9?trk=share_certificate)
 
-**Link to tweet:** [Find my tweet]()
+**Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1480902076502884352?s=20)
 
 
 
