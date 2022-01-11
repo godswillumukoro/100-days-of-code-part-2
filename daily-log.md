@@ -89,7 +89,7 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 **Today's Progress**: Completed RPG game, commenced #100Devs
 
-**Link to tweet:** [Find my tweet]()
+**Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1480471836160929793?s=20)
 
 
 
