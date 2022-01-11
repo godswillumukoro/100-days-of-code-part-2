@@ -93,6 +93,15 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 
 
+
+## Day 10: January 10, 2022
+
+**Today's Progress**: Completed Typography course and got [a cert from LinkedIn Learning](https://www.linkedin.com/learning/certificates/df28fb77f97855cccb90e2cbe3b91731b4d2f8ff98223719579c0d5a023a6fb9?trk=share_certificate)
+
+**Link to tweet:** [Find my tweet]()
+
+
+
 ## Other Links
 
 1. [Link To My First #100DaysOfCode Challenge](https://github.com/godswillumukoro/100DaysOfCode)
