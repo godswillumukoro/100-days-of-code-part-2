@@ -102,6 +102,15 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 
 
+
+## Day 11/12: January 12, 2022
+
+**Today's Progress**: Started learning figma. Find an image of my progress in the tweet
+
+**Link to tweet:** [Find my tweet]()
+
+
+
 ## Other Links
 
 1. [Link To My First #100DaysOfCode Challenge](https://github.com/godswillumukoro/100DaysOfCode)
