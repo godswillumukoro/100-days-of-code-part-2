@@ -107,7 +107,7 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 **Today's Progress**: Started learning figma. Find an image of my progress in the tweet
 
-**Link to tweet:** [Find my tweet]()
+**Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1481413366375714824?s=20)
 
 
 
