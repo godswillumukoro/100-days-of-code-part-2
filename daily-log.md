@@ -111,6 +111,15 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 
 
+
+## Day 13: January 13, 2022
+
+**Today's Progress**: Successfully designed a low-fidelity prototype in Figma. Refer to tweet to view image.
+
+**Link to tweet:** [Find my tweet]()
+
+
+
 ## Other Links
 
 1. [Link To My First #100DaysOfCode Challenge](https://github.com/godswillumukoro/100DaysOfCode)
