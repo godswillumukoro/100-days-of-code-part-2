@@ -116,7 +116,7 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 **Today's Progress**: Successfully designed a low-fidelity prototype in Figma. Refer to tweet to view image.
 
-**Link to tweet:** [Find my tweet]()
+**Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1481726150422454275?s=20)
 
 
 
