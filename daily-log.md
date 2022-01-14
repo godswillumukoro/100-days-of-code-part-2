@@ -120,6 +120,17 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 
 
+
+## Day 14: January 14, 2022
+
+**Today's Progress**: Started building a JavaScript Quiz inspired by James Quick App using HTML, CSS and JS.
+
+**Thoughts**: See tweet for Image.
+
+**Link to tweet:** [Find my tweet]()
+
+
+
 ## Other Links
 
 1. [Link To My First #100DaysOfCode Challenge](https://github.com/godswillumukoro/100DaysOfCode)
