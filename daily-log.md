@@ -123,11 +123,11 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 ## Day 14: January 14, 2022
 
-**Today's Progress**: Started building a JavaScript Quiz inspired by James Quick App using HTML, CSS and JS.
+**Today's Progress**: Started building a JavaScript Quiz App inspired by James Quick App using HTML, CSS and JS.
 
 **Thoughts**: See tweet for Image.
 
-**Link to tweet:** [Find my tweet]()
+**Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1482118420015599616?s=20)
 
 
 
