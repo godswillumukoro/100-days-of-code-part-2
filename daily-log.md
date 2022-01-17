@@ -131,6 +131,16 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 
 
+
+
+## Day 15-16: January 15-16, 2022
+
+**Today's Progress**: Continued learning Figma from a Skillshare course, networked with folks from #100Devs
+
+**Link to tweet:** [Find my tweet]()
+
+
+
 ## Other Links
 
 1. [Link To My First #100DaysOfCode Challenge](https://github.com/godswillumukoro/100DaysOfCode)
