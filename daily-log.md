@@ -141,6 +141,18 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 
 
+
+
+## Day 17: January 17, 2022
+
+**Today's Progress**: Added page transition animation, music, mute on/off toggle button to my JavaScript Quiz App
+
+**Thoughts**: See tweet for video.
+
+**Link to tweet:** [Find my tweet]()
+
+
+
 ## Other Links
 
 1. [Link To My First #100DaysOfCode Challenge](https://github.com/godswillumukoro/100DaysOfCode)
