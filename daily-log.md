@@ -147,9 +147,9 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 **Today's Progress**: Added page transition animation, music, mute on/off toggle button to my JavaScript Quiz App
 
-**Thoughts**: See tweet for video.
+**Thoughts**: The animation was made using [swup](https://github.com/swup/swup) and I took inspiration from [Jason Lengstorf](https://github.com/jlengstorf) on the mute/unmute button See tweet for video.
 
-**Link to tweet:** [Find my tweet]()
+**Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1483178589017329666?s=20)
 
 
 
