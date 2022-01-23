@@ -153,6 +153,16 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 
 
+
+
+## Day 17: January 18-22, 2022
+
+**Today's Progress**: Worked on #100Devs Class Assignment
+
+**Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1483178589017329666?s=20)
+
+
+
 ## Other Links
 
 1. [Link To My First #100DaysOfCode Challenge](https://github.com/godswillumukoro/100DaysOfCode)
