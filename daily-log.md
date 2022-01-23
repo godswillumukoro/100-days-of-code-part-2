@@ -157,9 +157,9 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 ## Day 18/22: January 18-22, 2022
 
-**Today's Progress**: Worked on #100Devs Class Assignment
+**Today's Progress**: Worked on #100Devs Class Assignments
 
-**Link to tweet:** [Find my tweet]()
+**Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1485194954456678403?s=20)
 
 
 
