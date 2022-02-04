@@ -163,6 +163,18 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 
 
+
+
+## Day 23/36: January 23 - Feb 04, 2022
+
+**Progress made**: Built 6 small websites, contributed to an open source game (shinobi chronicles), worked on #100Devs assignment, freelanced on client's web application and added new features.
+
+**Thoughts**: Will get back to sharing updates every day.
+
+**Link to tweet:** [Find my tweet]()
+
+
+
 ## Other Links
 
 1. [Link To My First #100DaysOfCode Challenge](https://github.com/godswillumukoro/100DaysOfCode)
