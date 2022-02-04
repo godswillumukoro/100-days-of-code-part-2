@@ -171,7 +171,7 @@ Lastly, [I had some challenges with installing the game on my Macbook Pro.](http
 
 **Thoughts**: Will get back to sharing updates every day.
 
-**Link to tweet:** [Find my tweet]()
+**Link to tweet:** [Find my tweet](https://twitter.com/umuks_/status/1489505211693637632?s=20&t=ZkBRB2URGeU316QEhhFYkQ)
 
 
 
